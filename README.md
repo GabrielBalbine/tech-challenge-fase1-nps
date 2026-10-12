@@ -20,7 +20,6 @@ Projeto desenvolvido para o Tech Challenge da Fase 1 da Pós-Tech. O repositóri
 10. [Padrões do projeto](#10-padrões-do-projeto)
 11. [Cronograma](#11-cronograma)
 12. [Checklist da entrega](#12-checklist-da-entrega)
-13. [Referências](#13-referências)
 
 ---
 

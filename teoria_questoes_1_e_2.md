@@ -1,14 +1,13 @@
 # Tech Challenge – Fase 1
 
 > **Pós-Tech FIAP · Pós-graduação em AI Scientist**
-> Equipe:
+
+Equipe:
 - Gabriel Balbine de Andrades
 - Gerferson André Silva Costa
 - Giulliano Alves Souza Machado
 - Matheus da Silva Lima
 - Yan Marcel Ramos 
-
-Questões 1 e 2
 
 ---
 
